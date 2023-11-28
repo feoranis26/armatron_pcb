@@ -1,0 +1,31 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C1, C2","2","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"2","C3, C6, C7, C16, C17, C18, C19","7","100n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"3","C4, C8, C9","3","10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"4","C5","1","10u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"5","C10, C11, C13, C14","4","22pF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"6","C12, C15","2","4.7u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"7","D1","1","Inolux_IN-PI556FCH","LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm","" K
+"8","D2, D3, D4, D5","4","D","Diode_SMD:D_0805_2012Metric","" K
+"9","D14","1","LED_Small","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","" K
+"10","F2","1","0.5A","Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder","" K
+"11","FB1","1","FerriteBead_Small","Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder","" K
+"12","J1, J4","2","USB_B","SamacSys_Parts:USB1030GFPBB","" K
+"13","J2","1","5-2337992-4","523379924","" K
+"14","J3","1","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"15","J5","1","Conn_01x11","components:2.8 inch resistive tft smd","" K
+"16","J6","1","Conn_01x11","Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Vertical",""
+"17","JP1","1","SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm",""
+"18","LS2","1","PT-1241PFQ","SamacSys_Parts:PT1241PFQ","" K
+"19","R1, R2","2","220R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"20","R3, R4, R5, R12, R13, R37","6","10K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"21","R6","1","2.32K 1%","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"22","R14, R15, R18, R19","4","50R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"23","R31","1","1K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"24","SW1, SW2","2","SW_Push","Button_Switch_SMD:SW_SPST_TL3342","" K
+"25","U1","1","ESP32-WROOM-32","RF_Module:ESP32-WROOM-32","" K
+"26","U2","1","AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","" K
+"27","U3","1","ENC28J60x-SO","Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm","" K
+"28","U4, U5","2","CH340G","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",""
+"29","Y1","1","ECS-2520MVLC-250-BN-TR3","SamacSys_Parts:ECS2520MVLC250BNTR3","" K
+"30","Y2, Y3","2","12MHz","Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering","" K

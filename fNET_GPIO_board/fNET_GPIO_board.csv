@@ -1,0 +1,39 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C1, C2","2","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"2","C3, C6, C7, C16, C17, C18, C19","7","100n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"3","C4, C8, C9","3","10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"4","C5","1","10u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"5","C10, C11, C13, C14","4","22pF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"6","C12, C15","2","4.7u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"7","C20, C21, C22, C23, C24, C25, C26","7","1uf","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"8","D1","1","Inolux_IN-PI556FCH","LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm","" K
+"9","D2, D3, D4, D5","4","D","Diode_SMD:D_0805_2012Metric","" K
+"10","D14","1","LED_Small","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","" K
+"11","F1, F2","2","0.5A","Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder","" K
+"12","FB1","1","FerriteBead_Small","Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder","" K
+"13","IC1, IC11, IC36, IC37, IC38, IC39","6","PCF8574T_3,518","SamacSys_Parts:SOIC127P1032X265-16N",""
+"14","IC2, IC3, IC4, IC5, IC6, IC7, IC8, IC9, IC12, IC13, IC14, IC15, IC16, IC17, IC18, IC19","16","M74VHC1GT50DTT1G","SamacSys_Parts:SOT95P275X110-5N","" K
+"15","IC10","1","MAX485ESA+","SOIC127P600X175-8N","" K
+"16","IC20, IC21, IC22, IC23, IC24, IC25, IC26, IC27, IC28, IC29, IC30, IC31, IC32, IC33, IC34, IC35","16","MAX4634EUB+","SOP50P490X110-10N","" K
+"17","IC40, IC41","2","PCA9685PW,118","SOP65P640X110-28N","" K
+"18","J1","1","USB_B","SamacSys_Parts:USB1030GFPBB","" K
+"19","J2","1","5-2337992-4","SamacSys_Parts:523379924","" K
+"20","J3, J5","2","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"21","J4","1","USB_B","SamacSys_Parts:M701-330442","" K
+"22","J6, J7, J9, J10","4","Screw_Terminal_01x04","TerminalBlock:TerminalBlock_bornier-4_P5.08mm",""
+"23","J8","1","87180-064LF","87180064LF","" K
+"24","J11","1","Screw_Terminal_01x04","SamacSys_Parts:2843924",""
+"25","JP1","1","SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm",""
+"26","LS2","1","PT-1241PFQ","SamacSys_Parts:PT1241PFQ","" K
+"27","R1, R2","2","220R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"28","R3, R4, R5, R12, R13, R29, R37","7","10K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""  K
+"29","R6","1","2.32K 1%","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"30","R7, R8, R9, R10, R11, R16, R17, R20, R21, R22, R23, R24, R25, R26, R27, R28, R31","17","1K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"31","R14, R15, R18, R19","4","50R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"32","SW1, SW2","2","SW_Push","Button_Switch_SMD:SW_SPST_TL3342","" K
+"33","U1","1","ESP32-WROOM-32","RF_Module:ESP32-WROOM-32","" K
+"34","U2","1","AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","" K
+"35","U3","1","ENC28J60x-SO","Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm","" K
+"36","U4, U5","2","CH340G","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","" K
+"37","Y1","1","ECS-2520MVLC-250-BN-TR3","SamacSys_Parts:ECS2520MVLC250BNTR3","" K
+"38","Y2, Y3","2","12MHz","Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering","" K

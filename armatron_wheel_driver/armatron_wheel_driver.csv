@@ -1,0 +1,49 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","A1, A2, A3, A4","4","Pololu_Breakout_DRV8825","Module:Pololu_Breakout-16_15.2x20.3mm","" K
+"2","C1, C2, C3, C4","4","C","SamacSys_Parts:CAPAE850X1050N","" K
+"3","C5, C21","2","10u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"4","C6, C7, C9, C16, C17, C18","6","100n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"5","C8, C14, C15","3","10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"6","C10, C11","2","22pF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"7","C12","1","4.7u","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"8","C13","1","1n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"9","C19, C20","2","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","" K
+"10","D1","1","Inolux_IN-PI556FCH","LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm","" K
+"11","D2, D3, D4, D5","4","D","Diode_SMD:D_0805_2012Metric","" K
+"12","D6, D7, D8, D9","4","LED","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder","" K
+"13","D14, D15","2","LED_Small","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","" K
+"14","F2, F5","2","0.5A","Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder","" K
+"15","F4","1","5A","Fuse:Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder","" K
+"16","FB1","1","FerriteBead_Small","Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder","" K
+"17","IC1","1","ADS1115BQDGSRQ1","SamacSys_Parts:SOP50P490X110-10N","" K
+"18","IC2, IC4","2","PCF8574T_3,518","SamacSys_Parts:SOIC127P1032X265-16N","" K
+"19","IC3","1","MAX4634EUB+","SOP50P490X110-10N","" K
+"20","IC5","1","M74VHC1GT50DTT1G","SamacSys_Parts:SOT95P275X110-5N","" K
+"21","J1","1","3-794620-6","SamacSys_Parts:37946206","" K
+"22","J2","1","USB_B","SamacSys_Parts:USB1030GFPBB","" K
+"23","J3","1","Conn_01x03_Pin","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"24","J4","1","5-2337992-4","523379924","" K
+"25","J5","1","Screw_Terminal_01x03","TerminalBlock:TerminalBlock_bornier-3_P5.08mm",""
+"26","J6, J7, J8, J9","4","3-794620-4","SamacSys_Parts:37946204","" K
+"27","J14, J15, J16, J17","4","Conn_01x03_Socket","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"28","JP1","1","SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm",""
+"29","LS2","1","PT-1241PFQ","SamacSys_Parts:PT1241PFQ","" K
+"30","M1, M2, M3, M4","4","17HS4401","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","" K
+"31","Q1","1","BC817","Package_TO_SOT_SMD:SOT-23","" K
+"32","Q2","1","Q_PNP_Darlington_BCE","Package_TO_SOT_SMD:TO-252-2","" K
+"33","R1","1","100K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"34","R2, R3, R4, R7, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R38, R39, R40, R41, R42, R43","27","1K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"35","R5, R6, R10, R11, R12, R13","6","10K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"36","R8","1","2.32K 1%","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"37","R9, R14, R18, R37","4","50R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"38","R15, R19","2","220R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"39","R16","1","220K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"40","R17","1","27K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","" K
+"41","SW1, SW2","2","SW_Push","Button_Switch_SMD:SW_SPST_TL3342","" K
+"42","U1","1","ESP32-WROOM-32","RF_Module:ESP32-WROOM-32","" K
+"43","U2","1","AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","" K
+"44","U3","1","ENC28J60x-SO","Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm","" K
+"45","U4","1","CH340G","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",""
+"46","U5","1","ACS712xLCTR-20A","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","" K
+"47","Y1","1","ECS-2520MVLC-250-BN-TR3","SamacSys_Parts:ECS2520MVLC250BNTR3","" K
+"48","Y2","1","12MHz","Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering","" K
